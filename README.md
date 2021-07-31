@@ -52,7 +52,7 @@ const { delayedPromiseRetry } = require('delayed-promise-retry');
     throw new Error();
   };
   const retries = 3;
-  const retryDelay = (retryNumber) => retryNumber * 1000; // the first value of retryNumber is 0
+  const retryDelay = (retryNumber) => retryNumber * 1000;
 
   try {
     await delayedPromiseRetry(fn, retries, retryDelay);

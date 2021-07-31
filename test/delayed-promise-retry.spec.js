@@ -27,7 +27,7 @@ describe('delayed promise retry', () => {
     );
 
     await expect(promise).rejects.toThrow();
-    expect(retryDelay).toBeCalledWith(0);
+    expect(retryDelay).toBeCalledWith(1);
   });
 
   it('should return the value of the original function', async () => {

@@ -1,7 +1,7 @@
 const delays = require('./delays');
 const { sleep } = require('./utils');
 
-async function delayedPromiseRetry(fn, retries, retryDelay = 0, retryCount = 0) {
+async function delayedPromiseRetry(fn, retries, retryDelay = 0, retryCount = 1) {
   try {
     const result = await fn();
 
