@@ -1,6 +1,6 @@
 {
   "name": "delayed-promise-retry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A helper to execute a promise a certain number of times if it's throwing an exception, also inserting a delay between each attempt.",
   "main": "index.js",
   "directories": {
