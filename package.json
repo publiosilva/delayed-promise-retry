@@ -14,10 +14,15 @@
     "url": "git+https://github.com/publiosilva/delayed-promise-retry.git"
   },
   "keywords": [
+    "async",
+    "await",
+    "backoff",
     "delay",
     "delayed",
     "promise",
-    "retry"
+    "repeat",
+    "retry",
+    "retries"
   ],
   "author": "Publio Blenilio",
   "license": "MIT",
