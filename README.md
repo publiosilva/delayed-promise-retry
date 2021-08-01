@@ -1,8 +1,8 @@
 # Welcome to delayed-promise-retry 👋
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.0.3-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/publiosilva/delayed-promise-retry#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/publiosilva/delayed-promise-retry/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/publiosilva/delayed-promise-retry)](https://github.com/publiosilva/delayed-promise-retry/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/publiosilva/delayed-promise-retry)](https://github.com/publiosilva/delayed-promise-retry/blob/main/LICENSE)
 [![Npm Downloads](https://img.shields.io/npm/dm/delayed-promise-retry.svg?style=flat-square)](http://npm-stat.com/charts.html?package=delayed-promise-retry)
 
 > A helper to execute a promise a certain number of times if it's throwing an exception, also inserting a delay between each attempt.
