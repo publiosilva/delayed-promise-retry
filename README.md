@@ -14,6 +14,10 @@
 npm install delayed-promise-retry
 ```
 
+```sh
+yarn add delayed-promise-retry
+```
+
 ## Examples
 
 ### Static delay
