@@ -27,6 +27,8 @@ const { delayedPromiseRetry } = require('delayed-promise-retry');
 
 (async () => {
   const fn = async () => {
+    console.log('trying...');
+
     throw new Error();
   };
   const retries = 3;
@@ -47,6 +49,8 @@ const { delayedPromiseRetry } = require('delayed-promise-retry');
 
 (async () => {
   const fn = async () => {
+    console.log('trying...');
+
     throw new Error();
   };
   const retries = 3;
@@ -67,6 +71,8 @@ const { delayedPromiseRetry, exponentialDelay } = require('delayed-promise-retry
 
 (async () => {
   const fn = async () => {
+    console.log('trying...');
+
     throw new Error();
   };
   const retries = 3;
