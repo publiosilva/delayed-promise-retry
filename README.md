@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/publiosilva/delayed-promise-retry#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/publiosilva/delayed-promise-retry/graphs/commit-activity)
-[![License: ISC](https://img.shields.io/github/license/publiosilva/delayed-promise-retry)](https://github.com/publiosilva/delayed-promise-retry/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/publiosilva/delayed-promise-retry)](https://github.com/publiosilva/delayed-promise-retry/blob/master/LICENSE)
 
 > A helper to execute a promise a certain number of times if it's throwing an exception, also inserting a delay between each attempt.
 
@@ -107,4 +107,4 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021-present [Publio Blenilio](https://github.com/publiosilva).
 
-This project is [ISC](https://github.com/publiosilva/delayed-promise-retry/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/publiosilva/delayed-promise-retry/blob/master/LICENSE) licensed.
