@@ -1,5 +1,5 @@
 # Welcome to delayed-promise-retry 👋
-![Version](https://img.shields.io/badge/version-0.0.3-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.0.4-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/publiosilva/delayed-promise-retry#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/publiosilva/delayed-promise-retry/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/publiosilva/delayed-promise-retry)](https://github.com/publiosilva/delayed-promise-retry/blob/main/LICENSE)
