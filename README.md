@@ -99,6 +99,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [Publio Blenilio](https://github.com/publiosilva).
+Copyright © 2021-present [Publio Blenilio](https://github.com/publiosilva).
 
 This project is [ISC](https://github.com/publiosilva/delayed-promise-retry/blob/master/LICENSE) licensed.
